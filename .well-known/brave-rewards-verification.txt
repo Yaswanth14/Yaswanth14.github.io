@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: yaswanth14.github.io
+Token: 667637df467d23bc98c5755ece0f2873ab8b0fed27ec046c1fecc694ef6804d0
